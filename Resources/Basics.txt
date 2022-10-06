@@ -1,0 +1,89 @@
+
+# Machine Learning [ML]
+
+machine learning is process in which we want to teach machine something and
+machine will be able to study on the basis of the data given and able to produce the output 
+when some data of similar type is given to machine to evaluate
+
+# Artificial Intelligence [AI]
+
+it is process of making machine thinks like the human and able to learn by there own just like human learn
+on there own and as human has own natural intelligence so human are trying to give such intelligence to machine 
+and such of the intelligence is called as the artificial intelligence and it is field under development and
+has allot of scope inside it 
+
+# We use python mostly for ML but Why ??
+
+python is easy.
+python is fast enough to run machine learning algorithm and codes
+python has large source of the machine learning modules.
+python is cross platform language (run on any OS )
+
+
+# how machine learning works 
+
+machine Learning is used on data so that the machine which fetch the data and then it will be able to 
+find out the set of rules from that data and then with use of that rules we can able to solve problems 
+of type of same data 
+
+# features in Machine Learning
+
+so everything which can describe about a object or person or item is called as the features
+
+ex: a cat has 2 eyes, 4 legs, 1 tails, nails in legs so all of these are the features of a cat and all this can
+able to describe how a cat looks so all these legs, eyes, nose all are the features of the cat and 
+on the basis of that we are able to uniquely identify the cat in between the animals
+
+# label in Machine Learning
+
+so when you provide features inside a machine so machine will evaluate it on basis of rules produced and
+output for the inputed features are called as the label
+
+ex : you provide features of cat like hairs,eyes,legs, so machine will detect and deduce result like the
+features are corrosponds to cat so so label to that docs will be cat 
+
+label is like the outcome of the machine on basis of rules which machine give
+machine learning algo is one which maps the features(input to machine learning algorithm) to the label 
+(outcome after applying rules sets inside the machine learning algorithm)
+
+example :
+    you have find is a cat is happy or sad
+
+say features are f1 f2 f3 and label are l1 l2
+    we use mathematics inference such a way that
+
+    features                    label
+    f1 : eyes               l1 : angry
+    f2 : legs               l2 : happy
+    f3 : Mouth
+
+    such like that we are able to provide some outcome via mathematics inference and machine learning algos
+
+
+# importance of data in machine learning
+ 
+To play with model and machine learning the most important thing to do is that to have data so data is very important 
+part in the machine learning as we have to find the production o rules on the basis of machine learning algorithm so we are 
+going to need data to train and data to play with in order to test the data
+
+so any algorithm in machine learning is irrelevent if you dont have the proper dataset inoder to run that algorithm and
+maximize the throughput you can get with the that machine learning algorithm
+
+source of data :
+
+1) company
+2) Some entity or organisation 
+3) from data scrapping from internet
+4) from internet sources like kaggle, github and such like that
+5) you can able to create own dataset
+6) UCI Ml here people stores the machine learning information for future development
+
+it is good idea to learn the dataframe and use the dataframe as its alternative is one which has something like 2d list and 
+is very terrible idea in order to study data and it make functionality more complex and it is also to bad to deal with in point
+of time and space complexity 
+
+
+so in order to learn more about the machine learning you must have to know some libraries so we take dive in learning them 
+and after that we can be able to use the modules in proper way 
+
+so this is end of basis 

@@ -1,0 +1,44 @@
+here inside this i will write the notes which i take from the data science and by learning the modules of python which are 
+quiet usefull when you are going to apply them inside the machine learning
+
+# Data Science
+
+it is science of data in which you have data on something with the use of data we are going find out some inference with is
+so that science which dignose the data and drew out the inference is callled as the data science 
+
+# Ipynb file format
+
+it is a utility of python with with we can able to create differnt section of code and it will help you to do any thing seperatly 
+irrespective any earlier code. 
+
+note : we are going to use the ipynb directly with VS code  and not going to use the jupyter notebook
+
+about notebook
+
+1) in each notebook the number in [ ] will show you current count of the code which is runned just so from that you can 
+able to fidn in what order the code is runned 
+
+2) so if you want to run some terminal command inside ipynb file so it will just need ! in start of command and then whole
+sentense after it will be seen as the terminal command
+it is very usefull when we have download some packages in python 
+
+ex :
+!pip install tensorflow
+!pip install numpy
+!echo "ghansham"
+!mkdir helloGrs  
+
+same command with ! at start will lead to error 
+
+3) Ipynb will also able to store the output so you dont have run each and every code each time which will save your time and 
+efforts and also will increase the productivity 
+
+4) there are multiple ways of use multiple language with the help of the jupyter magic and it will found very usefull for you
+to run the code of differnt languages 
+use code !lsmagic
+
+you can use them with % and vs code will show you multiple magic item and you can use them too
+there are chances of system to hang so use it wisely 
+
+
+
