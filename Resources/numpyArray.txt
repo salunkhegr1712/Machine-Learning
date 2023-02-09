@@ -1,1 +1,0 @@
-here i will write the notes from the numpy and how it will usefull in my case 
