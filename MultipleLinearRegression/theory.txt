@@ -1,0 +1,15 @@
+### you dont have to worry about :
+
+#### a) MLRM ASSUMPTIONS 
+
+is dataset is following asssumptions from the MLRM if data is not linear so it will 
+give bad performance <br>and on basis of that you can say that dataset is not following 
+assumptions or not
+
+#### b) DUMMY VARIABLE TRAP
+
+no model will take care of it automatically
+
+#### c) BEST FEATURE SELECTION 
+
+no model will also take care of that

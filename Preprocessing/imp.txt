@@ -1,0 +1,8 @@
+
+in logistic regression of feature scaling not worth anything
+
+We need to perform Feature Scaling when we are dealing with Gradient Descent Based algorithms 
+
+(Linear and Logistic Regression, Neural Network) and Distance-based algorithms (KNN, K-means, SVM) 
+
+as these are very sensitive to the range of the data points
