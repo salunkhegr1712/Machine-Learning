@@ -1,0 +1,27 @@
+Json table
+
+columnDefs
+
+"headertane": "Athlete Detalls', "children":t
+
+("headerName":"Name", "field": "athlete", "hide": false, "enableflowGroup": True, "editable": True), ("headerName":"Age", "Field": "age", "hide": False, "enablefowGroup": True, "enableValue": True, "cellclassRules": ( bg-success text-danger": "data.athlete Michael Phelps" }, "editable": True
+
+Columns Definitions and Options
+
+headerName": "Country", "field": "country", "hide": false, "enableRowGroup": True, "editable": True)
+
+("headerName":"Sport", "Field": "sport", "hide": false, "enableRowGroup": true, "editable": True), ("headertane": "Year", "field": "year", "hide": False, "enableRowGroup": True, "editable": True),
+
+"headerNone": "Medals" "children":[ ,
+
+("headertiane": "Gold", "field": "gold", "hide": false, "enableRowGroup": True, "cellstyle": {"color":"red", "background-color": "green"), "editable": True), ("headerMane": "silver", "field": "silver", "hide": False, "enableflowGroup": True}, ("headerName": "Bronze", "field": "bronze", "hide": false, "enableflowGroup": True, "editable": True}
+
+TrowData": [
+
+("athlete": "Michael Phelps", "age": 23, "country": "United States", "year": 200, "date": "24/08/2008", "sport": "Swimming", "gold": 8, "silver": 0, "bronze": 0, "total": (athlete": "Yannick Agnel", "age": 28, "country": "France", "year": 2012, "date": "12/08/2012", "sport": "Swiming", "gold": 2, "silver": 1, "bronze": 0, "total": 3). ("athlete: "Usain Bolt", "age": 25, "country": "Jamaica", "year": 2012, "date": "12/08/2012", "sport": "Athletics", "gold": 3, "silver": 0, "bronze": 0, "total": 3) Data
+
+"side@ar": "columns",
+
+suppressAggFuncInHeader" : True
+
+Grid Options
